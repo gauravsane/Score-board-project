@@ -1,4 +1,5 @@
-![image](https://github.com/gauravsane/Score-board-project/assets/68939352/314317c0-40b7-4094-bbb5-a623523b9796)
+![image](https://github.com/gauravsane/Score-board-project/assets/68939352/d3758ec7-4d9b-42ba-a998-ca22aa778389)
+
 
 
 
